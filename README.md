@@ -16,5 +16,5 @@
 - **.lua** represents module scripts that are shared by the server, client, or both.
 
 ### External Libraries
-- [ProfileStore](https://github.com/MadStudioRoblox/ProfileStore)
-- NumberFormatter
+- [ProfileStore](https://github.com/MadStudioRoblox/ProfileStore), a wrapper for Roblox's [DataStoreService].
+- NumberFormatter, a utility library for numeric formatting.
