@@ -1,5 +1,5 @@
 # escape-the-world
-An interactive multiplayer game environment made on the Roblox platform utilizing Luau (derived from Lua) and NoSQL principles.
+**Escape the World** is an interactive multiplayer game environment made on the Roblox platform utilizing Luau (derived from Lua) and NoSQL principles.
 
 ### Main Features
 - Player progression across obstacle courses (called "obby") within different biomes, NPC interactions, and obby map functionality with game physics and animations.
