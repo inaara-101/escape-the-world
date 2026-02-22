@@ -3,7 +3,7 @@
 
 ### Main Features
 - Player progression across obstacle courses (called "obby") within different biomes, NPC interactions, and obby map functionality with game physics and animations.
-- NoSQL data persistence via an external library called [ProfileStore](https://github.com/MadStudioRoblox/ProfileStore), which acts as a wrapper for Roblox's default [DataStoreService](https://create.roblox.com/docs/reference/engine/classes/DataStoreService) for efficiency across thousands of concurrent clients.
+- NoSQL data persistence via an external library called [ProfileStore](https://github.com/MadStudioRoblox/ProfileStore), which acts as a wrapper for Roblox's default [DataStoreService](https://create.roblox.com/docs/reference/engine/classes/DataStoreService) for efficiency across thousands of concurrent clients. Structured profiles for scalable expansion.
 - Monetization systems with backend receipt and data handling.
 
 ### Additional Features
